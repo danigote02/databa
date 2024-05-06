@@ -48,3 +48,357 @@ rank,release_date,title,url,production_cost,domestic_gross,worldwide_gross,openi
 47,2021-12-14,Spider-Man: No Way Home,/movie/Spider-Man-No-Way-Home-(2021)#tab=summary,200000000,814108407,1912775610,260138569,PG-13,Action,4336,148,2021
 48,2018-02-13,Black Panther,/movie/Black-Panther#tab=summary,200000000,700059566,1336494321,202003951,PG-13,Action,4084,120,2018
 49,1997-12-18,Titanic,/movie/Titanic-(1997)#tab=summary,200000000,659363944,2207986545,28638131,PG-13,Drama,3265,194,1997
+50,2018-06-15,Incredibles 2,/movie/Incredibles-2#tab=summary,200000000,608581744,1242805359,182687905,PG,Adventure,4413,118,2018
+51,2016-12-14,Rogue One: A Star Wars Story,/movie/Rogue-One-A-Star-Wars-Story#tab=summary,200000000,533539991,1055083596,155081681,PG-13,Adventure,4157,134,2016
+52,2016-06-16,Finding Dory,/movie/Finding-Dory#tab=summary,200000000,486295561,1025006125,135060273,PG,Adventure,4305,103,2016
+53,2019-06-20,Toy Story 4,/movie/Toy-Story-4-(2019)#tab=summary,200000000,434038008,1073080329,120908065,G,Adventure,4575,89,2019
+54,2010-06-18,Toy Story 3,/movie/Toy-Story-3#tab=summary,200000000,415004880,1068879522,110307189,G,Adventure,4028,102,2010
+55,2022-05-04,Doctor Strange in the Multiverse of Madness,/movie/Doctor-Strange-in-the-Multiverse-of-Madness-(2022)#tab=summary,200000000,411331607,952224986,187420998,PG-13,Action,4534,126,2022
+56,2013-04-24,Iron Man 3,/movie/Iron-Man-3#tab=summary,200000000,408992272,1215392272,174144585,PG-13,Action,4253,130,2013
+57,2017-04-28,Guardians of the Galaxy Vol 2,/movie/Guardians-of-the-Galaxy-Vol-2#tab=summary,200000000,389813101,869113101,146510104,PG-13,Action,4347,136,2017
+58,2004-06-30,Spider-Man 2,/movie/Spider-Man-2#tab=summary,200000000,373524485,794697557,88156227,PG-13,Adventure,4166,127,2004
+59,2022-03-01,The Batman,/movie/Batman-The-(2021)#tab=summary,200000000,369345583,767820302,134008624,PG-13,Action,4417,175,2022
+60,2010-03-04,Alice in Wonderland,/movie/Alice-in-Wonderland-(2010)#tab=summary,200000000,334191110,1025491110,116101023,PG,Adventure,3739,108,2010
+61,2012-10-26,Skyfall,/movie/Skyfall#tab=summary,200000000,304360277,1110526981,88364714,PG-13,Action,3526,143,2012
+62,2012-12-11,The Hobbit: An Unexpected Journey,/movie/Hobbit-An-Unexpected-Journey-The#tab=summary,200000000,303003568,1014938545,84617303,PG-13,Adventure,4100,169,2012
+63,2013-06-21,Monsters University,/movie/Monsters-University#tab=summary,200000000,268488329,743455810,82429469,G,Adventure,4004,102,2013
+64,2013-03-08,Oz the Great and Powerful,/movie/Oz-The-Great-and-Powerful#tab=summary,200000000,234770996,490359051,79110453,PG,Adventure,3912,130,2013
+65,2014-05-21,X-Men: Days of Future Past,/movie/X-Men-Days-of-Future-Past#tab=summary,200000000,233921534,747862775,90823660,PG-13,Action,4001,131,2014
+66,2014-04-16,The Amazing Spider-Man 2,/movie/Amazing-Spider-Man-2-The#tab=summary,200000000,202853933,708996336,91608337,PG-13,Action,4324,141,2014
+67,2011-06-23,Cars 2,/movie/Cars-2#tab=summary,200000000,191450875,560155383,66135507,G,Adventure,4115,107,2011
+68,2021-07-07,Black Widow,/movie/Black-Widow-(2021)#tab=summary,200000000,183651655,379751655,80366312,PG-13,Action,4275,133,2021
+69,2019-07-31,Fast & Furious Presents: Hobbs & Shaw,/movie/Fast-and-Furious-Presents-Hobbs-and-Shaw-(2019)#tab=summary,200000000,173956935,760381706,60038950,PG-13,Action,4344,134,2019
+70,2021-05-20,F9: The Fast Saga,/movie/F9-The-Fast-Saga-(2021)#tab=summary,200000000,173005945,721077945,70043165,PG-13,Action,4203,145,2021
+71,2010-12-17,Tron: Legacy,/movie/Tron-Legacy#tab=summary,200000000,172062763,399866199,44026211,PG,Adventure,3451,125,2010
+72,2009-11-12,2012,/movie/2012#tab=summary,200000000,166112167,757677748,65237614,PG-13,Action,3444,158,2009
+73,2021-11-03,Eternals,/movie/Eternals-(2021)#tab=summary,200000000,164870264,402064929,71297219,PG-13,Action,4090,156,2021
+74,2018-11-14,Fantastic Beasts: The Crimes of Grindelwald,/movie/Fantastic-Beasts-The-Crimes-of-Grindelwald-(2018)#tab=summary,200000000,159555901,648455339,62163104,PG-13,Adventure,4163,134,2018
+75,2009-05-21,Terminator Salvation,/movie/Terminator-Salvation#tab=summary,200000000,125322469,365491792,42558390,PG-13,Action,3602,116,2009
+76,2022-06-15,Lightyear,/movie/Lightyear-(2022)#tab=summary,200000000,118307188,218571346,50577961,PG,Adventure,4255,110,2022
+77,2021-07-28,Jungle Cruise,/movie/Jungle-Cruise-(2021)#tab=summary,200000000,116987516,210384144,35018731,PG-13,Adventure,4310,90,2021
+78,2011-06-17,Green Lantern,/movie/Green-Lantern-(2011)#tab=summary,200000000,116601172,219535492,53174303,PG-13,Action,3816,113,2011
+79,2022-04-06,Fantastic Beasts: The Secrets of Dumbledore,/movie/Fantastic-Beasts-The-Secrets-of-Dumbledore-(2021)#tab=summary,200000000,95850844,404560146,42151256,PG-13,Adventure,4245,NA,2022
+80,2010-05-28,Prince of Persia: Sands of Time,/movie/Prince-of-Persia-Sands-of-Time#tab=summary,200000000,90759676,336359676,30095259,PG-13,Action,3646,115,2010
+81,2019-06-05,Dark Phoenix,/movie/Dark-Phoenix-(2019)#tab=summary,200000000,65845974,246356895,32828348,PG-13,Action,3721,114,2019
+82,2020-02-28,Onward,/movie/Onward-(2020)#tab=summary,200000000,61555145,133317030,39119861,PG,Adventure,4310,114,2020
+83,2020-12-16,Wonder Woman 1984,/movie/Wonder-Woman-1984-(2020)#tab=summary,200000000,46801036,166360232,16701957,PG-13,Action,2218,151,2020
+84,2020-09-04,Mulan,/movie/Mulan-(2020)#tab=summary,200000000,0,69965374,NA,PG-13,Adventure,NA,115,2020
+85,2021-07-02,The Tomorrow War,/movie/Tomorrow-War-The#tab=summary,200000000,0,19220000,NA,PG-13,Action,NA,140,2021
+86,2022-07-13,The Gray Man,/movie/Gray-Man-The-(2022)#tab=summary,200000000,0,451178,NA,PG-13,Thriller/Suspense,NA,129,2022
+87,2011-06-29,Transformers: Dark of the Moon,/movie/Transformers-Dark-of-the-Moon-(2011)#tab=summary,195000000,352390543,1123794079,97852865,PG-13,Action,4107,154,2011
+88,2017-06-02,The Mummy,/movie/Mummy-The-(2017)#tab=summary,195000000,80101125,409953905,31668375,PG-13,Adventure,4035,107,2017
+89,2013-02-27,Jack the Giant Slayer,/movie/Jack-the-Giant-Slayer#tab=summary,195000000,65187603,197687603,27202226,PG-13,Adventure,3525,113,2013
+90,2015-04-01,Furious 7,/movie/Furious-7#tab=summary,190000000,353007020,1514553486,147187040,PG-13,Action,4022,137,2015
+91,2013-05-16,Star Trek Into Darkness,/movie/Star-Trek-Into-Darkness#tab=summary,190000000,228778661,467381584,70165559,PG-13,Adventure,3907,132,2013
+92,2013-06-19,World War Z,/movie/World-War-Z#tab=summary,190000000,202706711,531861650,66411834,PG-13,Action,3607,115,2013
+93,2013-05-10,The Great Gatsby,/movie/Great-Gatsby-The-(2011)#tab=summary,190000000,144840419,353640419,50085184,PG-13,Drama,3550,141,2013
+94,2009-11-06,Disneyâ€™s A Christmas Carol,/movie/Disneys-A-Christmas-Carol#tab=summary,190000000,137855863,315709697,30051075,PG,Drama,3683,95,2009
+95,2013-07-11,Pacific Rim,/movie/Pacific-Rim#tab=summary,190000000,101802906,411002906,37285325,PG-13,Action,3285,131,2013
+96,2021-12-16,The Matrix Resurrections,/movie/Matrix-Resurrections-The-(2021)#tab=summary,190000000,37686805,156467817,10749011,R,Action,3552,148,2021
+97,2015-11-25,The Good Dinosaur,/movie/Good-Dinosaur-The#tab=summary,187500000,123087120,333771037,39155217,PG,Adventure,3749,92,2015
+98,2008-05-02,Iron Man,/movie/Iron-Man#tab=summary,186000000,318604126,585171547,102118668,PG-13,Adventure,4154,126,2008
+99,2008-07-11,The Dark Knight,/movie/Dark-Knight-The#tab=summary,185000000,533720947,998615789,158411483,PG-13,Action,4366,152,2008
+100,2008-05-22,Indiana Jones and the Kingdom of the Crystal Skull,/movie/Indiana-Jones-and-the-Kingdom-of-the-Crystal-Skull#tab=summary,185000000,317101119,786635413,100137835,PG-13,Adventure,4264,123,2008
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
